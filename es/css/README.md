@@ -212,6 +212,7 @@ Ahora añadiremos bloques de declaración a diferentes selectores. Los selectore
     
     .content {
         margin-left: 40px;
+        margin-right: 40px;
     }
     
     h1, h2, h3, h4 {
